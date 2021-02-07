@@ -1,14 +1,10 @@
-# NextJS Boilerplate
+# InstaClone
 
 ### Summary
 
-An opinionated NextJS Boilerplate created using NextJS, React,React Hooks and Context API.
+An instagram clone.
 
 This project was bootstrapped with [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-### Motivation
-
-The purpose of this project is to have a base for new applications.
 
 ### Getting Started
 
