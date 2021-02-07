@@ -31,4 +31,12 @@ export default {
         errorCode: 107,
         message: 'Error retrieving Users',
     },
+    SAVE_POST_ERROR: {
+        errorCode: 108,
+        message: 'Error saving Post',
+    },
+    GET_USER_POSTS_ERROR: {
+        errorCode: 109,
+        message: 'Error getting user posts',
+    },
 };

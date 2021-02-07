@@ -52,6 +52,18 @@ Create a .env.local file in project root folder. In this file add the following 
 -   [JWT Authentication](https://jwt.io/)
 
 -   Commit conventions with [commitlint](https://commitlint.js.org/), [husky](https://typicode.github.io/husky) and [lintstaged](https://github.com/okonet/lint-staged).
+    Common commit types:
+    build,
+    ci,
+    chore,
+    docs,
+    feat,
+    fix,
+    perf,
+    refactor,
+    revert,
+    style,
+    test
 
 ## Getting Started
 
